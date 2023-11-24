@@ -3,6 +3,13 @@
     font-size: 22px;
 }
 
+.title{
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    color: turquoise;
+}
+
 .header{
     font-size: 44px;
     font-weight: bolder;
@@ -13,4 +20,23 @@
    background-color: aliceblue;
    color: cornflowerblue;
    text-align: center;
+}
+
+.ingredients{
+    font-weight: bold;
+    background-color: blueviolet;
+    color: yellow;
+    text-align: center;
+}
+
+.steps{
+    font-weight: 50;
+    background-color: black;
+    color: white;
+    text-align: justify;
+}
+
+.recipeimage{
+    height: auto;
+    width: 200px;
 }

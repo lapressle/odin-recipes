@@ -1,0 +1,16 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+
+.header{
+    font-size: 44px;
+    font-weight: bolder;
+}
+
+.recipelist{
+   font-weight: bold;
+   background-color: aliceblue;
+   color: cornflowerblue;
+   text-align: center;
+}
